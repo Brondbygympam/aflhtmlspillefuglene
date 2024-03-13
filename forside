@@ -1,0 +1,43 @@
+<html>
+<head>
+ <title>Aflevering om html</title>
+</head>
+<body>
+ <table>
+ <tr>
+<td><img src="forsidefugle.png" width="75" height="90"></td>
+ <td><h1>Velkommen til Spillefuglene</h1></td>
+ <td><img src="forsidefugle.png" width="75" height="90"></td>
+ </tr>
+ </table>
+</body>
+</html>
+<html>
+<head>
+ <title>Baggrund</title>
+</head>
+<body background="lyserød baggrund.jpg">
+ <td><left><b>På denne hjemmesiden kan du finde følgende:</b></left></td>
+</body>
+</html>
+<html>
+<head>
+</head>
+<body>
+ <ul>
+ <li><i>Forenings medlemmer</i></li>
+ <li><i>Interessante spil</i></li>
+ <li><i>Link til producenternes skole</i></li>
+ </ul>
+</body>
+</html>
+<html>
+<head>
+ <title>Linjeskift</title>
+</head>
+<body>
+<td><a href="forening.html">Klik her for at se forenings medlemmerne i Spillefuglene</a></td><br>
+<td><a href="spillinks.html">Vil du spille interessante spil, så klik her</a></td><br>
+<td><a href="bgproducenter.html">Find ud af producenternes skole og hvem de er her, ved at klikke</a></td><br>
+</body>
+</html>
