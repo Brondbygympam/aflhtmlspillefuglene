@@ -1,0 +1,34 @@
+<html>
+<head>
+ <title>Spillefuglene</title>
+</head>
+<body>
+ <table>
+ <tr>
+ <td><h1>Her er producenterne bag hjemmesiden</h1></td>
+ <a href="afl.html">⬅ Tilbage til forsiden</a>
+ </tr>
+ </table>
+</body>
+</html>
+<html>
+<head>
+ <title>Baggrund</title>
+</head>
+<body background="lyserød baggrund.jpg">
+</html>
+<html>
+<head>
+</head>
+<body>
+ <ul>
+ <li>Jeg hedder Olivia, og er 18 år. Jeg går til dagligt på Brøndby Gymnasium i 2g. Jeg er et kæmpe dyremenneske og bruger meget tid omkring heste.</li><br>
+ <li>Mit navn er Pamilla og jeg er 18 år gammel. Til dagligt går jeg på brøndby Gymnasium i 2g. Mine interesser er at være sammen med min kæreste, venner og familie</li><br>
+ <li>Jeg hedder Melissa. Jeg er 18 år gammel. Jeg går på brøndby Gymnasium, og jeg interessere mig for mine venner og kæreste.</li><br>
+ </ul>
+</body>
+</html>
+<td><h3>Link til vores skole:</h3></td>
+ <a href="https://www.brondby-gym.dk/">Brøndby Gymnasium</a><br>
+
+ <br><td><img src="bglogobillede.png" align="center" width="700" height="200"></td>
