@@ -1,0 +1,39 @@
+<html>
+<head>
+ <title>Spillefuglene</title>
+</head>
+<body>
+ <table>
+ <tr>
+ <td><h1>Her ser du forenings medlemmerne</h1></td>
+ <td><img src="foreningmedlemmer.webp" width="90" height="100"></td>
+ <a href="afl.html">⬅ Tilbage til forsiden</a>
+ </tr>
+ </table>
+</body>
+</html>
+<html>
+<head>
+ <title>Baggrund</title>
+</head>
+<body background="lyserød baggrund.jpg">
+</html>
+<html>
+<head>
+ <title>Tabel</title>
+</head>
+<body>
+ <table border="1" align="left" width="25%">
+ <tr><td align="center">- Fornavn</td><td align="center">- Efternavn</td></tr>
+ <tr><td>Rune</td><td align="left">Klarskov</td></tr>
+ <tr><td>Olivia</td><td align="left">Thaarup</td></tr>
+ <tr><td>Melissa</td><td align="left">Flannov</td></tr>
+ <tr><td>Pamilla</td><td align="left">Janphongam</td></tr>
+ <tr><td>L. Otto</td><td align="left">Tipsen</td></tr>
+ <tr><td>Benny</td><td align="left">Jamz</td></tr>
+ <tr><td>Rasmus</td><td align="left">Bergmann</td></tr>
+ <tr><td>Pia</td><td align="left">Sadolin</td></tr>
+ </table>
+</body>
+</html>
+<td><img src="fuglepynt.webp" align=right width="420" height="450"></td>
