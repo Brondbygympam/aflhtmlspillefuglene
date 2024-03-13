@@ -1,0 +1,36 @@
+<html>
+<head>
+ <title>Spillefuglene</title>
+</head>
+<body>
+ <table>
+ <tr>
+ <td><h1>Her kan du spille interessante spil</h1></td>
+ <td><img src="spilkontroller.png" width="80" height="90"></td>
+ <a href="afl.html">⬅ Tilbage til forsiden</a><br>
+ </tr>
+ </table>
+</body>
+<html>
+<head>
+ <title>Baggrund</title>
+</head>
+<body background="lyserød baggrund.jpg">
+</html>
+<html>
+<head>
+</head>
+<body>
+ <table>
+ <tr>
+ <td><u>Tryk blot på en af linkene nedenunder for at finde et sjovt spil!</u></td>
+ </tr>
+ </table>
+</body>
+</html>
+<td><a href="https://www.friv.com/">Friv</a></td><br>
+<td><a href="https://www.y8.com/">Y8</a></td><br>
+<td><a href="https://kizi.com/">Kizi</a></td><br>
+<td><a href="https://www.spilxl.dk/">SpilXl</a></td><br>
+<td><a href="https://www.gratisspil.dk/">GratisSpil</a></td><br>
+<td><img src="noerd(1) (1).png" align="right" width="420" height="450"></td>
